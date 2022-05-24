@@ -1,0 +1,38 @@
+{
+	"cursor": "/Users/latona2/bitbucket/sap-api-integrations-promotion-reads/SAP_API_Caller/caller.go#L60",
+	"function": "sap-api-integrations-promotion-reads/SAP_API_Caller.(*SAPAPICaller).PromotionCollection",
+	"level": "INFO",
+	"message": [
+		{
+			"ObjectID": "00163E0C6CDB1ED59EC348C905A476ED",
+			"ParentObjectID": "00163E0C6CDB1ED59EC348C905A296ED",
+			"ETag": "2017-03-24T17:52:36+09:00",
+			"ID": "8000000009",
+			"RoleCode": "39",
+			"RoleCodeText": "Owner",
+			"Name": "Eddie Smoke",
+			"MainIndicator": true
+		},
+		{
+			"ObjectID": "00163E0C6CDB1ED59EC348C905A496ED",
+			"ParentObjectID": "00163E0C6CDB1ED59EC348C905A296ED",
+			"ETag": "2020-04-24T14:24:58+09:00",
+			"ID": "US1100",
+			"RoleCode": "50",
+			"RoleCodeText": "Organizational Unit",
+			"Name": "Sales Unit US",
+			"MainIndicator": true
+		},
+		{
+			"ObjectID": "00163E7930561ED98990A85774756C00",
+			"ParentObjectID": "00163E0C6CDB1ED59EC348C905A296ED",
+			"ETag": "2015-10-26T18:54:40+09:00",
+			"ID": "",
+			"RoleCode": "34",
+			"RoleCodeText": "Account",
+			"Name": "",
+			"MainIndicator": true
+		}
+	],
+	"time": "2022-05-24T17:37:51+09:00"
+}
